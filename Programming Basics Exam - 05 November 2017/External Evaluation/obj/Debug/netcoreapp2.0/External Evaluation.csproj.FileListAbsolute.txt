@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\bin\Debug\netcoreapp2.0\External Evaluation.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\bin\Debug\netcoreapp2.0\External Evaluation.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\bin\Debug\netcoreapp2.0\External Evaluation.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\bin\Debug\netcoreapp2.0\External Evaluation.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\bin\Debug\netcoreapp2.0\External Evaluation.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\External Evaluation\obj\Debug\netcoreapp2.0\External Evaluation.pdb

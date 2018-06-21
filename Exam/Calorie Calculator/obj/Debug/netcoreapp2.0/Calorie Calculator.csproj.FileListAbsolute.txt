@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.dll
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.pdb
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.dll
+D:\SoftUni\Programming Basics C#\Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.pdb

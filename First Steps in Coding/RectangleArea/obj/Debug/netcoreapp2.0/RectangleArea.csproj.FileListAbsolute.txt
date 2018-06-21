@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.pdb

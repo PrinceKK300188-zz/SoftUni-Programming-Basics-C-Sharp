@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\bin\Debug\netcoreapp2.0\Salary.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\bin\Debug\netcoreapp2.0\Salary.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\bin\Debug\netcoreapp2.0\Salary.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Salary\obj\Debug\netcoreapp2.0\Salary.pdb

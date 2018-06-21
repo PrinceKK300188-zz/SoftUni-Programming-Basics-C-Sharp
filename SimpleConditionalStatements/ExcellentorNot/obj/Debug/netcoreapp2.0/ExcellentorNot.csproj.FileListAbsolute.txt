@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\bin\Debug\netcoreapp2.0\ExcellentorNot.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\bin\Debug\netcoreapp2.0\ExcellentorNot.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\bin\Debug\netcoreapp2.0\ExcellentorNot.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\bin\Debug\netcoreapp2.0\ExcellentorNot.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\bin\Debug\netcoreapp2.0\ExcellentorNot.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\obj\Debug\netcoreapp2.0\ExcellentorNot.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\obj\Debug\netcoreapp2.0\ExcellentorNot.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\obj\Debug\netcoreapp2.0\ExcellentorNot.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\obj\Debug\netcoreapp2.0\ExcellentorNot.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentorNot\obj\Debug\netcoreapp2.0\ExcellentorNot.pdb

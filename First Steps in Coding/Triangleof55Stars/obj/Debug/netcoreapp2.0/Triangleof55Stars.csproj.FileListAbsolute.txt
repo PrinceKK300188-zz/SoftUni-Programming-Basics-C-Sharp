@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\obj\Debug\netcoreapp2.0\Triangleof55Stars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\obj\Debug\netcoreapp2.0\Triangleof55Stars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\obj\Debug\netcoreapp2.0\Triangleof55Stars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\bin\Debug\netcoreapp2.0\Triangleof55Stars.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\bin\Debug\netcoreapp2.0\Triangleof55Stars.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\bin\Debug\netcoreapp2.0\Triangleof55Stars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\bin\Debug\netcoreapp2.0\Triangleof55Stars.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\bin\Debug\netcoreapp2.0\Triangleof55Stars.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\obj\Debug\netcoreapp2.0\Triangleof55Stars.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Triangleof55Stars\obj\Debug\netcoreapp2.0\Triangleof55Stars.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\bin\Debug\netcoreapp2.0\Three brothers.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\bin\Debug\netcoreapp2.0\Three brothers.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\bin\Debug\netcoreapp2.0\Three brothers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\bin\Debug\netcoreapp2.0\Three brothers.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\bin\Debug\netcoreapp2.0\Three brothers.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Three brothers\obj\Debug\netcoreapp2.0\Three brothers.pdb

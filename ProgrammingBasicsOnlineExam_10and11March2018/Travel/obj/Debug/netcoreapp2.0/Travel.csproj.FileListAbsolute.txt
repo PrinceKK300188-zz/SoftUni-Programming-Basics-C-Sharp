@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

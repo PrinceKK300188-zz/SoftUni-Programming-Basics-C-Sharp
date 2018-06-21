@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\bin\Debug\netcoreapp2.0\USDtoBGN.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\bin\Debug\netcoreapp2.0\USDtoBGN.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\bin\Debug\netcoreapp2.0\USDtoBGN.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\bin\Debug\netcoreapp2.0\USDtoBGN.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\bin\Debug\netcoreapp2.0\USDtoBGN.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\USDtoBGN\obj\Debug\netcoreapp2.0\USDtoBGN.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\bin\Debug\netcoreapp2.0\Fitness Card.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\bin\Debug\netcoreapp2.0\Fitness Card.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\bin\Debug\netcoreapp2.0\Fitness Card.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\bin\Debug\netcoreapp2.0\Fitness Card.dll
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\bin\Debug\netcoreapp2.0\Fitness Card.pdb
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\obj\Debug\netcoreapp2.0\Fitness Card.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\obj\Debug\netcoreapp2.0\Fitness Card.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\obj\Debug\netcoreapp2.0\Fitness Card.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\obj\Debug\netcoreapp2.0\Fitness Card.dll
+D:\SoftUni\Programming Basics C#\Exam\Fitness Card\obj\Debug\netcoreapp2.0\Fitness Card.pdb

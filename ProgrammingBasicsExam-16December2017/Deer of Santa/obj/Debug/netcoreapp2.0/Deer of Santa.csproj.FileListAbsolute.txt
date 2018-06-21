@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\bin\Debug\netcoreapp2.0\Deer of Santa.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\bin\Debug\netcoreapp2.0\Deer of Santa.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\bin\Debug\netcoreapp2.0\Deer of Santa.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\bin\Debug\netcoreapp2.0\Deer of Santa.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\bin\Debug\netcoreapp2.0\Deer of Santa.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Deer of Santa\obj\Debug\netcoreapp2.0\Deer of Santa.csprojResolveAssemblyReference.cache

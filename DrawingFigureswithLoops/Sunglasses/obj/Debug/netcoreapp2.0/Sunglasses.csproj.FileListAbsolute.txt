@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\bin\Debug\netcoreapp2.0\Sunglasses.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\bin\Debug\netcoreapp2.0\Sunglasses.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\bin\Debug\netcoreapp2.0\Sunglasses.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\bin\Debug\netcoreapp2.0\Sunglasses.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\bin\Debug\netcoreapp2.0\Sunglasses.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Sunglasses\obj\Debug\netcoreapp2.0\Sunglasses.pdb

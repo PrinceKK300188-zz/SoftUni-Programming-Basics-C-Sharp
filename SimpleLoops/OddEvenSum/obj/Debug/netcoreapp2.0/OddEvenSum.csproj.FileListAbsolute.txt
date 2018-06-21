@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\bin\Debug\netcoreapp2.0\OddEvenSum.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\bin\Debug\netcoreapp2.0\OddEvenSum.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\bin\Debug\netcoreapp2.0\OddEvenSum.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\bin\Debug\netcoreapp2.0\OddEvenSum.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\bin\Debug\netcoreapp2.0\OddEvenSum.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenSum\obj\Debug\netcoreapp2.0\OddEvenSum.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\obj\Debug\netcoreapp2.0\Ivanovi_Family.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\obj\Debug\netcoreapp2.0\Ivanovi_Family.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\obj\Debug\netcoreapp2.0\Ivanovi_Family.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\bin\Debug\netcoreapp2.0\Ivanovi_Family.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\bin\Debug\netcoreapp2.0\Ivanovi_Family.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\bin\Debug\netcoreapp2.0\Ivanovi_Family.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\bin\Debug\netcoreapp2.0\Ivanovi_Family.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\bin\Debug\netcoreapp2.0\Ivanovi_Family.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\obj\Debug\netcoreapp2.0\Ivanovi_Family.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Family\obj\Debug\netcoreapp2.0\Ivanovi_Family.pdb

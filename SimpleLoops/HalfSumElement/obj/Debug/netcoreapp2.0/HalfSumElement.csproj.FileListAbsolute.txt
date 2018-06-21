@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\bin\Debug\netcoreapp2.0\HalfSumElement.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\bin\Debug\netcoreapp2.0\HalfSumElement.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\bin\Debug\netcoreapp2.0\HalfSumElement.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\bin\Debug\netcoreapp2.0\HalfSumElement.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\bin\Debug\netcoreapp2.0\HalfSumElement.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\HalfSumElement\obj\Debug\netcoreapp2.0\HalfSumElement.pdb

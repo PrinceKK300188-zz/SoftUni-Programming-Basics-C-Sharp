@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\bin\Debug\netcoreapp2.0\Lucky Numbers.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\bin\Debug\netcoreapp2.0\Lucky Numbers.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\bin\Debug\netcoreapp2.0\Lucky Numbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\bin\Debug\netcoreapp2.0\Lucky Numbers.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\bin\Debug\netcoreapp2.0\Lucky Numbers.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\obj\Debug\netcoreapp2.0\Lucky Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\obj\Debug\netcoreapp2.0\Lucky Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\obj\Debug\netcoreapp2.0\Lucky Numbers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\obj\Debug\netcoreapp2.0\Lucky Numbers.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lucky Numbers\obj\Debug\netcoreapp2.0\Lucky Numbers.pdb

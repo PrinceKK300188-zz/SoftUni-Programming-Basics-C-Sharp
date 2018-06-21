@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.pdb

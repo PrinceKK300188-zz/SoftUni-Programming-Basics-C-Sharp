@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Volleyball\bin\Debug\netcoreapp2.0\Volleyball.deps.json
+D:\SoftUni\Programming Basics C#\Volleyball\bin\Debug\netcoreapp2.0\Volleyball.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Volleyball\bin\Debug\netcoreapp2.0\Volleyball.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Volleyball\bin\Debug\netcoreapp2.0\Volleyball.dll
+D:\SoftUni\Programming Basics C#\Volleyball\bin\Debug\netcoreapp2.0\Volleyball.pdb
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.dll
+D:\SoftUni\Programming Basics C#\Volleyball\obj\Debug\netcoreapp2.0\Volleyball.pdb

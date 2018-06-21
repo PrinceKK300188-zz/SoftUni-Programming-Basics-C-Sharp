@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\bin\Debug\netcoreapp2.0\SquareFrame.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\SquareFrame\obj\Debug\netcoreapp2.0\SquareFrame.csprojResolveAssemblyReference.cache

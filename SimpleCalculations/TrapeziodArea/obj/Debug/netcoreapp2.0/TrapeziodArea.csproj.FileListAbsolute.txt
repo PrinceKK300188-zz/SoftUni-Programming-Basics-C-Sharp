@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\bin\Debug\netcoreapp2.0\TrapeziodArea.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\bin\Debug\netcoreapp2.0\TrapeziodArea.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\bin\Debug\netcoreapp2.0\TrapeziodArea.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\bin\Debug\netcoreapp2.0\TrapeziodArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\bin\Debug\netcoreapp2.0\TrapeziodArea.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\obj\Debug\netcoreapp2.0\TrapeziodArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\obj\Debug\netcoreapp2.0\TrapeziodArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\obj\Debug\netcoreapp2.0\TrapeziodArea.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\obj\Debug\netcoreapp2.0\TrapeziodArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TrapeziodArea\obj\Debug\netcoreapp2.0\TrapeziodArea.pdb

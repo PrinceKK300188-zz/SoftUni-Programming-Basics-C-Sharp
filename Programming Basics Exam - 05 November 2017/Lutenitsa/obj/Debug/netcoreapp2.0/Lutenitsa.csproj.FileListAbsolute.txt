@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\bin\Debug\netcoreapp2.0\Lutenitsa.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\bin\Debug\netcoreapp2.0\Lutenitsa.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\bin\Debug\netcoreapp2.0\Lutenitsa.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\bin\Debug\netcoreapp2.0\Lutenitsa.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\bin\Debug\netcoreapp2.0\Lutenitsa.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\obj\Debug\netcoreapp2.0\Lutenitsa.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\obj\Debug\netcoreapp2.0\Lutenitsa.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\obj\Debug\netcoreapp2.0\Lutenitsa.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\obj\Debug\netcoreapp2.0\Lutenitsa.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Lutenitsa\obj\Debug\netcoreapp2.0\Lutenitsa.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\bin\Debug\netcoreapp2.0\SumSeconds.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\bin\Debug\netcoreapp2.0\SumSeconds.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\bin\Debug\netcoreapp2.0\SumSeconds.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\bin\Debug\netcoreapp2.0\SumSeconds.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\bin\Debug\netcoreapp2.0\SumSeconds.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SumSeconds\obj\Debug\netcoreapp2.0\SumSeconds.pdb

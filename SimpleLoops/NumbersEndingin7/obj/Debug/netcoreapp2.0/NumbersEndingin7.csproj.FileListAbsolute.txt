@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\bin\Debug\netcoreapp2.0\NumbersEndingin7.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\bin\Debug\netcoreapp2.0\NumbersEndingin7.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\bin\Debug\netcoreapp2.0\NumbersEndingin7.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\bin\Debug\netcoreapp2.0\NumbersEndingin7.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\bin\Debug\netcoreapp2.0\NumbersEndingin7.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\NumbersEndingin7\obj\Debug\netcoreapp2.0\NumbersEndingin7.pdb

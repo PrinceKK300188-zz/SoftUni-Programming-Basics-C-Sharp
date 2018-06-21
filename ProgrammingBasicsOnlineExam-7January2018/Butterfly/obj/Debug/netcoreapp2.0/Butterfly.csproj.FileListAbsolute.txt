@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.pdb

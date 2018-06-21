@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\bin\Debug\netcoreapp2.0\Grandpa Stavri.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\bin\Debug\netcoreapp2.0\Grandpa Stavri.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\bin\Debug\netcoreapp2.0\Grandpa Stavri.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\bin\Debug\netcoreapp2.0\Grandpa Stavri.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\bin\Debug\netcoreapp2.0\Grandpa Stavri.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\obj\Debug\netcoreapp2.0\Grandpa Stavri.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\obj\Debug\netcoreapp2.0\Grandpa Stavri.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\obj\Debug\netcoreapp2.0\Grandpa Stavri.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\obj\Debug\netcoreapp2.0\Grandpa Stavri.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Grandpa Stavri\obj\Debug\netcoreapp2.0\Grandpa Stavri.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\bin\Debug\netcoreapp2.0\OddEvenPosition.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\bin\Debug\netcoreapp2.0\OddEvenPosition.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\bin\Debug\netcoreapp2.0\OddEvenPosition.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\bin\Debug\netcoreapp2.0\OddEvenPosition.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\bin\Debug\netcoreapp2.0\OddEvenPosition.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\OddEvenPosition\obj\Debug\netcoreapp2.0\OddEvenPosition.pdb

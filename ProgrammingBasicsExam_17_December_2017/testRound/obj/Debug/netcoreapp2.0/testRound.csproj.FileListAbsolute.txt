@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\bin\Debug\netcoreapp2.0\testRound.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\bin\Debug\netcoreapp2.0\testRound.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\bin\Debug\netcoreapp2.0\testRound.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\bin\Debug\netcoreapp2.0\testRound.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\bin\Debug\netcoreapp2.0\testRound.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\testRound\obj\Debug\netcoreapp2.0\testRound.pdb

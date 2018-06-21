@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\obj\Debug\netcoreapp2.0\Santas Holiday.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\obj\Debug\netcoreapp2.0\Santas Holiday.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\obj\Debug\netcoreapp2.0\Santas Holiday.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\bin\Debug\netcoreapp2.0\Santas Holiday.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\bin\Debug\netcoreapp2.0\Santas Holiday.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\bin\Debug\netcoreapp2.0\Santas Holiday.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\bin\Debug\netcoreapp2.0\Santas Holiday.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\bin\Debug\netcoreapp2.0\Santas Holiday.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\obj\Debug\netcoreapp2.0\Santas Holiday.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Santas Holiday\obj\Debug\netcoreapp2.0\Santas Holiday.pdb

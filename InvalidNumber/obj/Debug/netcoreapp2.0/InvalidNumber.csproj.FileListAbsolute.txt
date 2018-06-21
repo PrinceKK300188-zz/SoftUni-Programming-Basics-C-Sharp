@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.deps.json
+D:\SoftUni\Programming Basics C#\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.dll
+D:\SoftUni\Programming Basics C#\InvalidNumber\bin\Debug\netcoreapp2.0\InvalidNumber.pdb
+D:\SoftUni\Programming Basics C#\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.dll
+D:\SoftUni\Programming Basics C#\InvalidNumber\obj\Debug\netcoreapp2.0\InvalidNumber.pdb

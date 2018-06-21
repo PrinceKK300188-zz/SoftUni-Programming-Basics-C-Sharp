@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\bin\Debug\netcoreapp2.0\House.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\bin\Debug\netcoreapp2.0\House.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\bin\Debug\netcoreapp2.0\House.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\bin\Debug\netcoreapp2.0\House.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\bin\Debug\netcoreapp2.0\House.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\House\obj\Debug\netcoreapp2.0\House.pdb

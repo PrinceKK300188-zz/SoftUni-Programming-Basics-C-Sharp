@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\bin\Debug\netcoreapp2.0\HelloSoftUni.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\bin\Debug\netcoreapp2.0\HelloSoftUni.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\bin\Debug\netcoreapp2.0\HelloSoftUni.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\bin\Debug\netcoreapp2.0\HelloSoftUni.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\bin\Debug\netcoreapp2.0\HelloSoftUni.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp3\obj\Debug\netcoreapp2.0\HelloSoftUni.pdb

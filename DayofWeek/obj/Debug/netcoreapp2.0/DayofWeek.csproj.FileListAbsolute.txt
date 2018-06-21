@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DayofWeek\bin\Debug\netcoreapp2.0\DayofWeek.deps.json
+D:\SoftUni\Programming Basics C#\DayofWeek\bin\Debug\netcoreapp2.0\DayofWeek.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DayofWeek\bin\Debug\netcoreapp2.0\DayofWeek.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DayofWeek\bin\Debug\netcoreapp2.0\DayofWeek.dll
+D:\SoftUni\Programming Basics C#\DayofWeek\bin\Debug\netcoreapp2.0\DayofWeek.pdb
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.dll
+D:\SoftUni\Programming Basics C#\DayofWeek\obj\Debug\netcoreapp2.0\DayofWeek.pdb

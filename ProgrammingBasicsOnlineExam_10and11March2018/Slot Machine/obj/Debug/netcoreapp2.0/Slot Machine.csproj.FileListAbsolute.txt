@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\bin\Debug\netcoreapp2.0\Slot Machine.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\bin\Debug\netcoreapp2.0\Slot Machine.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\bin\Debug\netcoreapp2.0\Slot Machine.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\bin\Debug\netcoreapp2.0\Slot Machine.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\bin\Debug\netcoreapp2.0\Slot Machine.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Slot Machine\obj\Debug\netcoreapp2.0\Slot Machine.pdb

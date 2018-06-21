@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\bin\Debug\netcoreapp2.0\Bank Number Generator.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\bin\Debug\netcoreapp2.0\Bank Number Generator.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\bin\Debug\netcoreapp2.0\Bank Number Generator.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\bin\Debug\netcoreapp2.0\Bank Number Generator.dll
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\bin\Debug\netcoreapp2.0\Bank Number Generator.pdb
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.dll
+D:\SoftUni\Programming Basics C#\Exam\Bank Number Generator\obj\Debug\netcoreapp2.0\Bank Number Generator.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\bin\Debug\netcoreapp2.0\GreetingbyName.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\bin\Debug\netcoreapp2.0\GreetingbyName.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\bin\Debug\netcoreapp2.0\GreetingbyName.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\bin\Debug\netcoreapp2.0\GreetingbyName.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\bin\Debug\netcoreapp2.0\GreetingbyName.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\obj\Debug\netcoreapp2.0\GreetingbyName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\obj\Debug\netcoreapp2.0\GreetingbyName.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\obj\Debug\netcoreapp2.0\GreetingbyName.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\obj\Debug\netcoreapp2.0\GreetingbyName.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\GreetingbyName\obj\Debug\netcoreapp2.0\GreetingbyName.pdb

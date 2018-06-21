@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\FruitorVegetable\bin\Debug\netcoreapp2.0\FruitorVegetable.deps.json
+D:\SoftUni\Programming Basics C#\FruitorVegetable\bin\Debug\netcoreapp2.0\FruitorVegetable.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\FruitorVegetable\bin\Debug\netcoreapp2.0\FruitorVegetable.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\FruitorVegetable\bin\Debug\netcoreapp2.0\FruitorVegetable.dll
+D:\SoftUni\Programming Basics C#\FruitorVegetable\bin\Debug\netcoreapp2.0\FruitorVegetable.pdb
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.dll
+D:\SoftUni\Programming Basics C#\FruitorVegetable\obj\Debug\netcoreapp2.0\FruitorVegetable.pdb

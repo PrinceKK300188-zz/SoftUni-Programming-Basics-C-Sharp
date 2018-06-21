@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\PointintheFigure\bin\Debug\netcoreapp2.0\PointintheFigure.deps.json
+D:\SoftUni\Programming Basics C#\PointintheFigure\bin\Debug\netcoreapp2.0\PointintheFigure.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\PointintheFigure\bin\Debug\netcoreapp2.0\PointintheFigure.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\PointintheFigure\bin\Debug\netcoreapp2.0\PointintheFigure.dll
+D:\SoftUni\Programming Basics C#\PointintheFigure\bin\Debug\netcoreapp2.0\PointintheFigure.pdb
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.dll
+D:\SoftUni\Programming Basics C#\PointintheFigure\obj\Debug\netcoreapp2.0\PointintheFigure.pdb

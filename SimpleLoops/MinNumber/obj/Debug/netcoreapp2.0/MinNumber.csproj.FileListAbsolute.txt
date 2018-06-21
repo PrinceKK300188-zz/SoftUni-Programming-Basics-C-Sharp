@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\bin\Debug\netcoreapp2.0\MinNumber.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\bin\Debug\netcoreapp2.0\MinNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\bin\Debug\netcoreapp2.0\MinNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\bin\Debug\netcoreapp2.0\MinNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\bin\Debug\netcoreapp2.0\MinNumber.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\obj\Debug\netcoreapp2.0\MinNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\obj\Debug\netcoreapp2.0\MinNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\obj\Debug\netcoreapp2.0\MinNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\obj\Debug\netcoreapp2.0\MinNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\MinNumber\obj\Debug\netcoreapp2.0\MinNumber.pdb

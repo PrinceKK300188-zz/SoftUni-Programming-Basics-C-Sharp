@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\bin\Debug\netcoreapp2.0\Arrow.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\bin\Debug\netcoreapp2.0\Arrow.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\bin\Debug\netcoreapp2.0\Arrow.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\bin\Debug\netcoreapp2.0\Arrow.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\bin\Debug\netcoreapp2.0\Arrow.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Arrow\obj\Debug\netcoreapp2.0\Arrow.pdb

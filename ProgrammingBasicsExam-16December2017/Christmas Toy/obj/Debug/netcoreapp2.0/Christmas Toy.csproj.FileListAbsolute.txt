@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\bin\Debug\netcoreapp2.0\Christmas Toy.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\bin\Debug\netcoreapp2.0\Christmas Toy.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\bin\Debug\netcoreapp2.0\Christmas Toy.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\bin\Debug\netcoreapp2.0\Christmas Toy.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\bin\Debug\netcoreapp2.0\Christmas Toy.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Christmas Toy\obj\Debug\netcoreapp2.0\Christmas Toy.csprojResolveAssemblyReference.cache

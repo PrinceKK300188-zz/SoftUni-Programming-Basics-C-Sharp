@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\bin\Debug\netcoreapp2.0\Shopping.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\bin\Debug\netcoreapp2.0\Shopping.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\bin\Debug\netcoreapp2.0\Shopping.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\bin\Debug\netcoreapp2.0\Shopping.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\bin\Debug\netcoreapp2.0\Shopping.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Shopping\obj\Debug\netcoreapp2.0\Shopping.pdb

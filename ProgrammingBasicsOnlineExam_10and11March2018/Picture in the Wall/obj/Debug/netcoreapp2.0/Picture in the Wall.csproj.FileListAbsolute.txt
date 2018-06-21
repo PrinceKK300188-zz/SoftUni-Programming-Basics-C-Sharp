@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\bin\Debug\netcoreapp2.0\Picture in the Wall.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\bin\Debug\netcoreapp2.0\Picture in the Wall.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\bin\Debug\netcoreapp2.0\Picture in the Wall.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\bin\Debug\netcoreapp2.0\Picture in the Wall.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\bin\Debug\netcoreapp2.0\Picture in the Wall.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Picture in the Wall\obj\Debug\netcoreapp2.0\Picture in the Wall.pdb

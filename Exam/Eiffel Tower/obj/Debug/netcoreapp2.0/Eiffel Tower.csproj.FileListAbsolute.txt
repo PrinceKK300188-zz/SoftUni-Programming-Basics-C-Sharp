@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\bin\Debug\netcoreapp2.0\Eiffel Tower.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\bin\Debug\netcoreapp2.0\Eiffel Tower.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\bin\Debug\netcoreapp2.0\Eiffel Tower.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\bin\Debug\netcoreapp2.0\Eiffel Tower.dll
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\bin\Debug\netcoreapp2.0\Eiffel Tower.pdb
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.dll
+D:\SoftUni\Programming Basics C#\Exam\Eiffel Tower\obj\Debug\netcoreapp2.0\Eiffel Tower.pdb

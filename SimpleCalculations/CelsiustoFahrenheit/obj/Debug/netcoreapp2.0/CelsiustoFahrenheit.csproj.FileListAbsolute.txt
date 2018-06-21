@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\bin\Debug\netcoreapp2.0\CelsiustoFahrenheit.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\bin\Debug\netcoreapp2.0\CelsiustoFahrenheit.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\bin\Debug\netcoreapp2.0\CelsiustoFahrenheit.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\bin\Debug\netcoreapp2.0\CelsiustoFahrenheit.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\bin\Debug\netcoreapp2.0\CelsiustoFahrenheit.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CelsiustoFahrenheit\obj\Debug\netcoreapp2.0\CelsiustoFahrenheit.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\bin\Debug\netcoreapp2.0\2DRectangleArea.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\bin\Debug\netcoreapp2.0\2DRectangleArea.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\bin\Debug\netcoreapp2.0\2DRectangleArea.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\bin\Debug\netcoreapp2.0\2DRectangleArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\bin\Debug\netcoreapp2.0\2DRectangleArea.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\2DRectangleArea\obj\Debug\netcoreapp2.0\2DRectangleArea.pdb

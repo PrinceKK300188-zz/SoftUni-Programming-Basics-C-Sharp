@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\netcoreapp2.0\TriangleofDollars.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\netcoreapp2.0\TriangleofDollars.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\netcoreapp2.0\TriangleofDollars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\netcoreapp2.0\TriangleofDollars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\netcoreapp2.0\TriangleofDollars.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\netcoreapp2.0\TriangleofDollars.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\bin\Debug\netcoreapp2.0\MaxNumber.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\bin\Debug\netcoreapp2.0\MaxNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\bin\Debug\netcoreapp2.0\MaxNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\bin\Debug\netcoreapp2.0\MaxNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\bin\Debug\netcoreapp2.0\MaxNumber.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\obj\Debug\netcoreapp2.0\MaxNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\obj\Debug\netcoreapp2.0\MaxNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\obj\Debug\netcoreapp2.0\MaxNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\obj\Debug\netcoreapp2.0\MaxNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\MaxNumber\obj\Debug\netcoreapp2.0\MaxNumber.pdb

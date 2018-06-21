@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\bin\Debug\netcoreapp2.0\RhombusofStars.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\bin\Debug\netcoreapp2.0\RhombusofStars.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\bin\Debug\netcoreapp2.0\RhombusofStars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\bin\Debug\netcoreapp2.0\RhombusofStars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\bin\Debug\netcoreapp2.0\RhombusofStars.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RhombusofStars\obj\Debug\netcoreapp2.0\RhombusofStars.pdb

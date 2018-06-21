@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\bin\Debug\netcoreapp2.0\The song of the wheels.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\bin\Debug\netcoreapp2.0\The song of the wheels.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\bin\Debug\netcoreapp2.0\The song of the wheels.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\bin\Debug\netcoreapp2.0\The song of the wheels.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\bin\Debug\netcoreapp2.0\The song of the wheels.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\obj\Debug\netcoreapp2.0\The song of the wheels.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\obj\Debug\netcoreapp2.0\The song of the wheels.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\obj\Debug\netcoreapp2.0\The song of the wheels.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\obj\Debug\netcoreapp2.0\The song of the wheels.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\The song of the wheels\obj\Debug\netcoreapp2.0\The song of the wheels.pdb

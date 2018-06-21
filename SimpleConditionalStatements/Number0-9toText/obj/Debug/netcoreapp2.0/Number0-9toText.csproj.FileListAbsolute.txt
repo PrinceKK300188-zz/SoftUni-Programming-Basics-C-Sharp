@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\bin\Debug\netcoreapp2.0\Number0-9toText.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\bin\Debug\netcoreapp2.0\Number0-9toText.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\bin\Debug\netcoreapp2.0\Number0-9toText.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\bin\Debug\netcoreapp2.0\Number0-9toText.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\bin\Debug\netcoreapp2.0\Number0-9toText.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0-9toText\obj\Debug\netcoreapp2.0\Number0-9toText.pdb

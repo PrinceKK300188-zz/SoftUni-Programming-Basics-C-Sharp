@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\bin\Debug\netcoreapp2.0\Birthday.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\bin\Debug\netcoreapp2.0\Birthday.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\bin\Debug\netcoreapp2.0\Birthday.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\bin\Debug\netcoreapp2.0\Birthday.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\bin\Debug\netcoreapp2.0\Birthday.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Birthday\obj\Debug\netcoreapp2.0\Birthday.pdb

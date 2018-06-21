@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\bin\Debug\netcoreapp2.0\Barcode Generator.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\bin\Debug\netcoreapp2.0\Barcode Generator.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\bin\Debug\netcoreapp2.0\Barcode Generator.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\bin\Debug\netcoreapp2.0\Barcode Generator.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\bin\Debug\netcoreapp2.0\Barcode Generator.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\Barcode Generator\obj\Debug\netcoreapp2.0\Barcode Generator.pdb

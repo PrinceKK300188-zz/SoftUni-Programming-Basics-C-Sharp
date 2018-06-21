@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\AnimalType\obj\Debug\netcoreapp2.0\AnimalType.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\AnimalType\obj\Debug\netcoreapp2.0\AnimalType.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\AnimalType\obj\Debug\netcoreapp2.0\AnimalType.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\AnimalType\bin\Debug\netcoreapp2.0\AnimalType.deps.json
+D:\SoftUni\Programming Basics C#\AnimalType\bin\Debug\netcoreapp2.0\AnimalType.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\AnimalType\bin\Debug\netcoreapp2.0\AnimalType.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\AnimalType\bin\Debug\netcoreapp2.0\AnimalType.dll
+D:\SoftUni\Programming Basics C#\AnimalType\bin\Debug\netcoreapp2.0\AnimalType.pdb
+D:\SoftUni\Programming Basics C#\AnimalType\obj\Debug\netcoreapp2.0\AnimalType.dll
+D:\SoftUni\Programming Basics C#\AnimalType\obj\Debug\netcoreapp2.0\AnimalType.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\bin\Debug\netcoreapp2.0\Number0to100toText.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\bin\Debug\netcoreapp2.0\Number0to100toText.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\bin\Debug\netcoreapp2.0\Number0to100toText.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\bin\Debug\netcoreapp2.0\Number0to100toText.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\bin\Debug\netcoreapp2.0\Number0to100toText.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\Number0to100toText\obj\Debug\netcoreapp2.0\Number0to100toText.pdb

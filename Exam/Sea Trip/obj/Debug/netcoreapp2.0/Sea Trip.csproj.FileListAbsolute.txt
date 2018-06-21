@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\bin\Debug\netcoreapp2.0\Sea Trip.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\bin\Debug\netcoreapp2.0\Sea Trip.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\bin\Debug\netcoreapp2.0\Sea Trip.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\bin\Debug\netcoreapp2.0\Sea Trip.dll
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\bin\Debug\netcoreapp2.0\Sea Trip.pdb
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.dll
+D:\SoftUni\Programming Basics C#\Exam\Sea Trip\obj\Debug\netcoreapp2.0\Sea Trip.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\bin\Debug\netcoreapp2.0\SquareofStars.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\bin\Debug\netcoreapp2.0\SquareofStars.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\bin\Debug\netcoreapp2.0\SquareofStars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\bin\Debug\netcoreapp2.0\SquareofStars.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\bin\Debug\netcoreapp2.0\SquareofStars.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\SquareofStars\obj\Debug\netcoreapp2.0\SquareofStars.pdb

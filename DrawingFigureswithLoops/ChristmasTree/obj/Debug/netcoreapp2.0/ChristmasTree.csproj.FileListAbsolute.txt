@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.pdb

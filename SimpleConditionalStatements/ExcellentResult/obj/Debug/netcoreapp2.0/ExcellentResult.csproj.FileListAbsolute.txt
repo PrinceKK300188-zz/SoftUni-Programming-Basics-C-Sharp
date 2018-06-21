@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\bin\Debug\netcoreapp2.0\ExcellentResult.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\bin\Debug\netcoreapp2.0\ExcellentResult.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\bin\Debug\netcoreapp2.0\ExcellentResult.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\bin\Debug\netcoreapp2.0\ExcellentResult.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\bin\Debug\netcoreapp2.0\ExcellentResult.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\ExcellentResult\obj\Debug\netcoreapp2.0\ExcellentResult.pdb

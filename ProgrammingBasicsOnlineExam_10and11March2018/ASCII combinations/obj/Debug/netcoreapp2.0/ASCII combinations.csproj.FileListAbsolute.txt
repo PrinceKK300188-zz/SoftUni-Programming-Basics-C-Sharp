@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\bin\Debug\netcoreapp2.0\ASCII combinations.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\bin\Debug\netcoreapp2.0\ASCII combinations.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\bin\Debug\netcoreapp2.0\ASCII combinations.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\bin\Debug\netcoreapp2.0\ASCII combinations.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\bin\Debug\netcoreapp2.0\ASCII combinations.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\ASCII combinations\obj\Debug\netcoreapp2.0\ASCII combinations.pdb

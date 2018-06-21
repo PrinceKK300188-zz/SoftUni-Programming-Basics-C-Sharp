@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\bin\Debug\netcoreapp2.0\Special Combinations.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\bin\Debug\netcoreapp2.0\Special Combinations.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\bin\Debug\netcoreapp2.0\Special Combinations.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\bin\Debug\netcoreapp2.0\Special Combinations.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\bin\Debug\netcoreapp2.0\Special Combinations.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Special Combinations\obj\Debug\netcoreapp2.0\Special Combinations.pdb

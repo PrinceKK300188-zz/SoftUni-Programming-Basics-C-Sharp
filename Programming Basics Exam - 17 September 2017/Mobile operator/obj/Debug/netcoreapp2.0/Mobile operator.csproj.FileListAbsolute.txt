@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\bin\Debug\netcoreapp2.0\Mobile operator.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\bin\Debug\netcoreapp2.0\Mobile operator.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\bin\Debug\netcoreapp2.0\Mobile operator.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\bin\Debug\netcoreapp2.0\Mobile operator.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\bin\Debug\netcoreapp2.0\Mobile operator.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Mobile operator\obj\Debug\netcoreapp2.0\Mobile operator.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\bin\Debug\netcoreapp2.0\Workout.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\bin\Debug\netcoreapp2.0\Workout.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\bin\Debug\netcoreapp2.0\Workout.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\bin\Debug\netcoreapp2.0\Workout.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\bin\Debug\netcoreapp2.0\Workout.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\obj\Debug\netcoreapp2.0\Workout.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\obj\Debug\netcoreapp2.0\Workout.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\obj\Debug\netcoreapp2.0\Workout.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\obj\Debug\netcoreapp2.0\Workout.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Workout\obj\Debug\netcoreapp2.0\Workout.pdb

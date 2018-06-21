@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\bin\Debug\netcoreapp2.0\MultiplyTable.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\MultiplyTable\obj\Debug\netcoreapp2.0\MultiplyTable.pdb

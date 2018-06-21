@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\bin\Debug\netcoreapp2.0\VowelsSum.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\bin\Debug\netcoreapp2.0\VowelsSum.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\bin\Debug\netcoreapp2.0\VowelsSum.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\bin\Debug\netcoreapp2.0\VowelsSum.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\bin\Debug\netcoreapp2.0\VowelsSum.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\VowelsSum\obj\Debug\netcoreapp2.0\VowelsSum.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\bin\Debug\netcoreapp2.0\Sheriff.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 17 September 2017\Sheriff\obj\Debug\netcoreapp2.0\Sheriff.pdb

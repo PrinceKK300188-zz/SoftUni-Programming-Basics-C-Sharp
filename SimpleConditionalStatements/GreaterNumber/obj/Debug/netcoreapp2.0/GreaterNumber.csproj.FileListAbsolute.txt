@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\bin\Debug\netcoreapp2.0\GreaterNumber.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\GreaterNumber\obj\Debug\netcoreapp2.0\GreaterNumber.pdb

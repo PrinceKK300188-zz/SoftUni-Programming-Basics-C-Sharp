@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\bin\Debug\netcoreapp2.0\Airplane.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\bin\Debug\netcoreapp2.0\Airplane.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\bin\Debug\netcoreapp2.0\Airplane.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\bin\Debug\netcoreapp2.0\Airplane.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\bin\Debug\netcoreapp2.0\Airplane.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Airplane\obj\Debug\netcoreapp2.0\Airplane.pdb

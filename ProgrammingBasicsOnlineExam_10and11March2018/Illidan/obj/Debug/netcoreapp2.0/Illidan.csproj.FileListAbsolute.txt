@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\bin\Debug\netcoreapp2.0\Illidan.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\bin\Debug\netcoreapp2.0\Illidan.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\bin\Debug\netcoreapp2.0\Illidan.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\bin\Debug\netcoreapp2.0\Illidan.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\bin\Debug\netcoreapp2.0\Illidan.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Illidan\obj\Debug\netcoreapp2.0\Illidan.pdb

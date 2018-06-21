@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\bin\Debug\netcoreapp2.0\Ivanovi_Holiday.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\bin\Debug\netcoreapp2.0\Ivanovi_Holiday.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\bin\Debug\netcoreapp2.0\Ivanovi_Holiday.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\bin\Debug\netcoreapp2.0\Ivanovi_Holiday.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\bin\Debug\netcoreapp2.0\Ivanovi_Holiday.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\Ivanovi_Holiday\obj\Debug\netcoreapp2.0\Ivanovi_Holiday.pdb

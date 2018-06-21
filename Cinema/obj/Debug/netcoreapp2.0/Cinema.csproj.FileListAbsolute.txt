@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Cinema\bin\Debug\netcoreapp2.0\Cinema.deps.json
+D:\SoftUni\Programming Basics C#\Cinema\bin\Debug\netcoreapp2.0\Cinema.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Cinema\bin\Debug\netcoreapp2.0\Cinema.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Cinema\bin\Debug\netcoreapp2.0\Cinema.dll
+D:\SoftUni\Programming Basics C#\Cinema\bin\Debug\netcoreapp2.0\Cinema.pdb
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.dll
+D:\SoftUni\Programming Basics C#\Cinema\obj\Debug\netcoreapp2.0\Cinema.pdb

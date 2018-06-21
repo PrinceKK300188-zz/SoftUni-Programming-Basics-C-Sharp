@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\bin\Debug\netcoreapp2.0\ChristmasSock.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\ChristmasSock\obj\Debug\netcoreapp2.0\ChristmasSock.pdb

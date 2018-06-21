@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\bin\Debug\netcoreapp2.0\RadianstoDegrees.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\bin\Debug\netcoreapp2.0\RadianstoDegrees.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\bin\Debug\netcoreapp2.0\RadianstoDegrees.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\bin\Debug\netcoreapp2.0\RadianstoDegrees.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\bin\Debug\netcoreapp2.0\RadianstoDegrees.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\RadianstoDegrees\obj\Debug\netcoreapp2.0\RadianstoDegrees.pdb

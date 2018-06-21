@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\bin\Debug\netcoreapp2.0\SpeedInfo.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\bin\Debug\netcoreapp2.0\SpeedInfo.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\bin\Debug\netcoreapp2.0\SpeedInfo.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\bin\Debug\netcoreapp2.0\SpeedInfo.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\bin\Debug\netcoreapp2.0\SpeedInfo.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfo\obj\Debug\netcoreapp2.0\SpeedInfo.pdb

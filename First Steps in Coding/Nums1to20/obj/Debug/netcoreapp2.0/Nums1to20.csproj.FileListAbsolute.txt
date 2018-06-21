@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\bin\Debug\netcoreapp2.0\Nums1to20.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\bin\Debug\netcoreapp2.0\Nums1to20.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\bin\Debug\netcoreapp2.0\Nums1to20.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\bin\Debug\netcoreapp2.0\Nums1to20.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\bin\Debug\netcoreapp2.0\Nums1to20.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\obj\Debug\netcoreapp2.0\Nums1to20.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\obj\Debug\netcoreapp2.0\Nums1to20.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\obj\Debug\netcoreapp2.0\Nums1to20.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\obj\Debug\netcoreapp2.0\Nums1to20.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\Nums1to20\obj\Debug\netcoreapp2.0\Nums1to20.pdb

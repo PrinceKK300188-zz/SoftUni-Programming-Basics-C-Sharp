@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\bin\Debug\netcoreapp2.0\Bakery.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\bin\Debug\netcoreapp2.0\Bakery.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\bin\Debug\netcoreapp2.0\Bakery.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\bin\Debug\netcoreapp2.0\Bakery.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\bin\Debug\netcoreapp2.0\Bakery.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Bakery\obj\Debug\netcoreapp2.0\Bakery.pdb

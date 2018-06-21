@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\bin\Debug\netcoreapp2.0\Expression.deps.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\bin\Debug\netcoreapp2.0\Expression.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\bin\Debug\netcoreapp2.0\Expression.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\bin\Debug\netcoreapp2.0\Expression.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\bin\Debug\netcoreapp2.0\Expression.pdb
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.dll
+D:\SoftUni\Programming Basics C#\First Steps in Coding\ConsoleApp4\obj\Debug\netcoreapp2.0\Expression.pdb

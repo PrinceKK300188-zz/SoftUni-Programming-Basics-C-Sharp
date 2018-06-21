@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\bin\Debug\netcoreapp2.0\PointonRectangleBorder.deps.json
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\bin\Debug\netcoreapp2.0\PointonRectangleBorder.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\bin\Debug\netcoreapp2.0\PointonRectangleBorder.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\bin\Debug\netcoreapp2.0\PointonRectangleBorder.dll
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\bin\Debug\netcoreapp2.0\PointonRectangleBorder.pdb
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.dll
+D:\SoftUni\Programming Basics C#\PointonRectangleBorder\obj\Debug\netcoreapp2.0\PointonRectangleBorder.pdb

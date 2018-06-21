@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\bin\Debug\netcoreapp2.0\TriangleArea.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\TriangleArea\obj\Debug\netcoreapp2.0\TriangleArea.pdb

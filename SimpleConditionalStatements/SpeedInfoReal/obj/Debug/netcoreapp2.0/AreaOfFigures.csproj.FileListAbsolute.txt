@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\bin\Debug\netcoreapp2.0\AreaOfFigures.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\bin\Debug\netcoreapp2.0\AreaOfFigures.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\bin\Debug\netcoreapp2.0\AreaOfFigures.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\bin\Debug\netcoreapp2.0\AreaOfFigures.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\bin\Debug\netcoreapp2.0\AreaOfFigures.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\SpeedInfoReal\obj\Debug\netcoreapp2.0\AreaOfFigures.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\bin\Debug\netcoreapp2.0\Wire Net.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\bin\Debug\netcoreapp2.0\Wire Net.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\bin\Debug\netcoreapp2.0\Wire Net.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\bin\Debug\netcoreapp2.0\Wire Net.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\bin\Debug\netcoreapp2.0\Wire Net.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Wire Net\obj\Debug\netcoreapp2.0\Wire Net.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\bin\Debug\netcoreapp2.0\JuiceDiet.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\bin\Debug\netcoreapp2.0\JuiceDiet.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\bin\Debug\netcoreapp2.0\JuiceDiet.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\bin\Debug\netcoreapp2.0\JuiceDiet.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\bin\Debug\netcoreapp2.0\JuiceDiet.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\JuiceDiet\obj\Debug\netcoreapp2.0\JuiceDiet.pdb

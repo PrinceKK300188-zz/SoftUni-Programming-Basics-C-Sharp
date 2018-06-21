@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\bin\Debug\netcoreapp2.0\Advanced Loops.deps.json
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\bin\Debug\netcoreapp2.0\Advanced Loops.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\bin\Debug\netcoreapp2.0\Advanced Loops.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\bin\Debug\netcoreapp2.0\Advanced Loops.dll
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\bin\Debug\netcoreapp2.0\Advanced Loops.pdb
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.dll
+D:\SoftUni\Programming Basics C#\Advanced Loops\Advanced Loops\obj\Debug\netcoreapp2.0\Advanced Loops.pdb

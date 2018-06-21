@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.pdb

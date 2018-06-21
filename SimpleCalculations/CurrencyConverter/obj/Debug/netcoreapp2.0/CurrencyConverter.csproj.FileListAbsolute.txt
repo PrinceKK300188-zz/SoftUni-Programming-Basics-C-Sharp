@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\bin\Debug\netcoreapp2.0\CurrencyConverter.deps.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\bin\Debug\netcoreapp2.0\CurrencyConverter.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\bin\Debug\netcoreapp2.0\CurrencyConverter.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\bin\Debug\netcoreapp2.0\CurrencyConverter.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\bin\Debug\netcoreapp2.0\CurrencyConverter.pdb
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.dll
+D:\SoftUni\Programming Basics C#\SimpleCalculations\CurrencyConverter\obj\Debug\netcoreapp2.0\CurrencyConverter.pdb

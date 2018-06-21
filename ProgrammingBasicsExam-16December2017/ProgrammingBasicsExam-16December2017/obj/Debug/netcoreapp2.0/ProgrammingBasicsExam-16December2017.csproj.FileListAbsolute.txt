@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\bin\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\bin\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\bin\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\bin\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\bin\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam-16December2017\ProgrammingBasicsExam-16December2017\obj\Debug\netcoreapp2.0\ProgrammingBasicsExam-16December2017.pdb

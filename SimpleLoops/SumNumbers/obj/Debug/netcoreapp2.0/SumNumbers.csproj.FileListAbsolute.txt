@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\bin\Debug\netcoreapp2.0\SumNumbers.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\SumNumbers\obj\Debug\netcoreapp2.0\SumNumbers.pdb

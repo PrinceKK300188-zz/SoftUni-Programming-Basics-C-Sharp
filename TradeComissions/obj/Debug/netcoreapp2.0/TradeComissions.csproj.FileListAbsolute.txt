@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\TradeComissions\bin\Debug\netcoreapp2.0\TradeComissions.deps.json
+D:\SoftUni\Programming Basics C#\TradeComissions\bin\Debug\netcoreapp2.0\TradeComissions.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\TradeComissions\bin\Debug\netcoreapp2.0\TradeComissions.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\TradeComissions\bin\Debug\netcoreapp2.0\TradeComissions.dll
+D:\SoftUni\Programming Basics C#\TradeComissions\bin\Debug\netcoreapp2.0\TradeComissions.pdb
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.dll
+D:\SoftUni\Programming Basics C#\TradeComissions\obj\Debug\netcoreapp2.0\TradeComissions.pdb

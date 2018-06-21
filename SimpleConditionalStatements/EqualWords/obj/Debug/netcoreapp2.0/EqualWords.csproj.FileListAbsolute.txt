@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\bin\Debug\netcoreapp2.0\EqualWords.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\bin\Debug\netcoreapp2.0\EqualWords.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\bin\Debug\netcoreapp2.0\EqualWords.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\bin\Debug\netcoreapp2.0\EqualWords.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\bin\Debug\netcoreapp2.0\EqualWords.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\EqualWords\obj\Debug\netcoreapp2.0\EqualWords.pdb

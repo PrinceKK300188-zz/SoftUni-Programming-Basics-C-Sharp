@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\bin\Debug\netcoreapp2.0\Ladybird.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\bin\Debug\netcoreapp2.0\Ladybird.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\bin\Debug\netcoreapp2.0\Ladybird.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\bin\Debug\netcoreapp2.0\Ladybird.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\bin\Debug\netcoreapp2.0\Ladybird.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Ladybird\obj\Debug\netcoreapp2.0\Ladybird.pdb

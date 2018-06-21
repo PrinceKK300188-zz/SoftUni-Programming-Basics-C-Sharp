@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\bin\Debug\netcoreapp2.0\Prime pairs.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\bin\Debug\netcoreapp2.0\Prime pairs.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\bin\Debug\netcoreapp2.0\Prime pairs.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\bin\Debug\netcoreapp2.0\Prime pairs.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\bin\Debug\netcoreapp2.0\Prime pairs.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam_10and11March2018\Prime pairs\obj\Debug\netcoreapp2.0\Prime pairs.pdb

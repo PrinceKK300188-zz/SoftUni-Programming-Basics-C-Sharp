@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\bin\Debug\netcoreapp2.0\Diamond.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\bin\Debug\netcoreapp2.0\Diamond.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\bin\Debug\netcoreapp2.0\Diamond.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\bin\Debug\netcoreapp2.0\Diamond.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\bin\Debug\netcoreapp2.0\Diamond.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\Diamond\obj\Debug\netcoreapp2.0\Diamond.pdb

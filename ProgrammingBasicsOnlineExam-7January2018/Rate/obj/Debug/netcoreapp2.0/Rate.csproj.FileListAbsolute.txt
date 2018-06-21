@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\bin\Debug\netcoreapp2.0\Rate.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\bin\Debug\netcoreapp2.0\Rate.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\bin\Debug\netcoreapp2.0\Rate.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\bin\Debug\netcoreapp2.0\Rate.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\bin\Debug\netcoreapp2.0\Rate.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Rate\obj\Debug\netcoreapp2.0\Rate.pdb

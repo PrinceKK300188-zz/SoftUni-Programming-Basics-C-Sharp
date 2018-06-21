@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\bin\Debug\netcoreapp2.0\SecondJuice.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\bin\Debug\netcoreapp2.0\SecondJuice.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\bin\Debug\netcoreapp2.0\SecondJuice.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\bin\Debug\netcoreapp2.0\SecondJuice.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\bin\Debug\netcoreapp2.0\SecondJuice.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\SecondJuice\obj\Debug\netcoreapp2.0\SecondJuice.pdb

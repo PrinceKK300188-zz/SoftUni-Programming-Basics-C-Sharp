@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\bin\Debug\netcoreapp2.0\3EqualNumbers.deps.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\bin\Debug\netcoreapp2.0\3EqualNumbers.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\bin\Debug\netcoreapp2.0\3EqualNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\bin\Debug\netcoreapp2.0\3EqualNumbers.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\bin\Debug\netcoreapp2.0\3EqualNumbers.pdb
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.dll
+D:\SoftUni\Programming Basics C#\SimpleConditionalStatements\3EqualNumbers\obj\Debug\netcoreapp2.0\3EqualNumbers.pdb

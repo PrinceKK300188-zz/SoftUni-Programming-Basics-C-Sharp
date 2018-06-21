@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\bin\Debug\netcoreapp2.0\Aquapark.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\bin\Debug\netcoreapp2.0\Aquapark.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\bin\Debug\netcoreapp2.0\Aquapark.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\bin\Debug\netcoreapp2.0\Aquapark.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\bin\Debug\netcoreapp2.0\Aquapark.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Aquapark\obj\Debug\netcoreapp2.0\Aquapark.pdb

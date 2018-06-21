@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\bin\Debug\netcoreapp2.0\LatinLetters.deps.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\bin\Debug\netcoreapp2.0\LatinLetters.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\bin\Debug\netcoreapp2.0\LatinLetters.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\bin\Debug\netcoreapp2.0\LatinLetters.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\bin\Debug\netcoreapp2.0\LatinLetters.pdb
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.dll
+D:\SoftUni\Programming Basics C#\SimpleLoops\LatinLetters\obj\Debug\netcoreapp2.0\LatinLetters.pdb

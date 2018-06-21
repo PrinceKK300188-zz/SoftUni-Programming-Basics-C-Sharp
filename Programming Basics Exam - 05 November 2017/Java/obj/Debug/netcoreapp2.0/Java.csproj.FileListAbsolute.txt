@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\bin\Debug\netcoreapp2.0\Java.deps.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\bin\Debug\netcoreapp2.0\Java.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\bin\Debug\netcoreapp2.0\Java.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\bin\Debug\netcoreapp2.0\Java.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\bin\Debug\netcoreapp2.0\Java.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.dll
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.pdb
+D:\SoftUni\Programming Basics C#\Programming Basics Exam - 05 November 2017\Java\obj\Debug\netcoreapp2.0\Java.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\bin\Debug\netcoreapp2.0\NewYearsEveParty.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\bin\Debug\netcoreapp2.0\NewYearsEveParty.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\bin\Debug\netcoreapp2.0\NewYearsEveParty.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\bin\Debug\netcoreapp2.0\NewYearsEveParty.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\bin\Debug\netcoreapp2.0\NewYearsEveParty.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsExam_17_December_2017\NewYearsEveParty\obj\Debug\netcoreapp2.0\NewYearsEveParty.pdb

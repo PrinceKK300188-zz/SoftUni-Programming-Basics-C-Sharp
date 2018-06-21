@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\obj\Debug\netcoreapp2.0\RectangleofNxNStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\obj\Debug\netcoreapp2.0\RectangleofNxNStars.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\obj\Debug\netcoreapp2.0\RectangleofNxNStars.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\bin\Debug\netcoreapp2.0\RectangleofNxNStars.deps.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\bin\Debug\netcoreapp2.0\RectangleofNxNStars.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\bin\Debug\netcoreapp2.0\RectangleofNxNStars.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\bin\Debug\netcoreapp2.0\RectangleofNxNStars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\bin\Debug\netcoreapp2.0\RectangleofNxNStars.pdb
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\obj\Debug\netcoreapp2.0\RectangleofNxNStars.dll
+D:\SoftUni\Programming Basics C#\DrawingFigureswithLoops\RectangleofNxNStars\obj\Debug\netcoreapp2.0\RectangleofNxNStars.pdb

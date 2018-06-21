@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\FruitShop\bin\Debug\netcoreapp2.0\FruitShop.deps.json
+D:\SoftUni\Programming Basics C#\FruitShop\bin\Debug\netcoreapp2.0\FruitShop.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\FruitShop\bin\Debug\netcoreapp2.0\FruitShop.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\FruitShop\bin\Debug\netcoreapp2.0\FruitShop.dll
+D:\SoftUni\Programming Basics C#\FruitShop\bin\Debug\netcoreapp2.0\FruitShop.pdb
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.dll
+D:\SoftUni\Programming Basics C#\FruitShop\obj\Debug\netcoreapp2.0\FruitShop.pdb

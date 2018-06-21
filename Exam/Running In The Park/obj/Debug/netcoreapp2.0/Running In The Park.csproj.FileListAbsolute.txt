@@ -1,0 +1,10 @@
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\bin\Debug\netcoreapp2.0\Running In The Park.deps.json
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\bin\Debug\netcoreapp2.0\Running In The Park.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\bin\Debug\netcoreapp2.0\Running In The Park.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\bin\Debug\netcoreapp2.0\Running In The Park.dll
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\bin\Debug\netcoreapp2.0\Running In The Park.pdb
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\obj\Debug\netcoreapp2.0\Running In The Park.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\obj\Debug\netcoreapp2.0\Running In The Park.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\obj\Debug\netcoreapp2.0\Running In The Park.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\obj\Debug\netcoreapp2.0\Running In The Park.dll
+D:\SoftUni\Programming Basics C#\Exam\Running In The Park\obj\Debug\netcoreapp2.0\Running In The Park.pdb

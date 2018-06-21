@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\bin\Debug\netcoreapp2.0\Coins.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\bin\Debug\netcoreapp2.0\Coins.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\bin\Debug\netcoreapp2.0\Coins.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\bin\Debug\netcoreapp2.0\Coins.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\bin\Debug\netcoreapp2.0\Coins.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\Coins\obj\Debug\netcoreapp2.0\Coins.pdb

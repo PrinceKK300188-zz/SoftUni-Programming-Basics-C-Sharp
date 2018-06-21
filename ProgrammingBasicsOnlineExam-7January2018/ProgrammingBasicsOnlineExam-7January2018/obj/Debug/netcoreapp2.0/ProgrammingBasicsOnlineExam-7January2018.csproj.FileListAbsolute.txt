@@ -1,0 +1,11 @@
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\bin\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.deps.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\bin\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.runtimeconfig.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\bin\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\bin\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\bin\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.pdb
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.AssemblyInfo.cs
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.dll
+D:\SoftUni\Programming Basics C#\ProgrammingBasicsOnlineExam-7January2018\ProgrammingBasicsOnlineExam-7January2018\obj\Debug\netcoreapp2.0\ProgrammingBasicsOnlineExam-7January2018.pdb
