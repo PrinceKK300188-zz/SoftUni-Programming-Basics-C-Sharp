@@ -328,3 +328,12 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+obj
+bin
+Advanced Loops.csproj
+bin
+obj
+CheckPrime.csproj
+bin
+obj
+EnterEvenNumber.csproj
